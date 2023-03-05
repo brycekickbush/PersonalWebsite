@@ -1,0 +1,18 @@
+#myname{
+    position:fixed;
+    left:40px;
+    font-family:Garamond;
+    font-size:50px;
+}
+
+#bottomSquare{
+    width: 500px;
+	height: 100px;
+	background-color: lightblue;
+    position: absolute;
+	top: 620px;
+	left: 750px;
+	
+	
+	margin: auto;
+}

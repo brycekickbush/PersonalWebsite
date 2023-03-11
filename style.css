@@ -1,8 +1,6 @@
 h1 {
-    font-size:100
-    
+  font-family: 'EB Garamond';font-size: 40px;
 }
-
 
 #mePicture{
   display: block;
@@ -10,3 +8,33 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
+
+.resume{
+  width: 750px;
+}
+
+.Nav{
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.aboutme{
+  font-size: 25px;
+  color: blue;
+}
+
+.giannis{
+  width: 200px;
+  height: auto;
+}
+
+.kg{
+  width: 300px;
+  height: auto;
+}
+
+* {background-color: lightskyblue}
